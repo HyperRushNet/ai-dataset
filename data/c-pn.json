@@ -1,5 +1,4 @@
-{
-  "data": [
+
     {
       "tekst": "Dit is een positieve recensie van een product.",
       "label": "positief"
@@ -23,6 +22,4 @@
     {
       "tekst": "Dit is het slechtste product dat ik ooit heb gekocht.",
       "label": "negatief"
-    }
-  ]
-}
+    },
