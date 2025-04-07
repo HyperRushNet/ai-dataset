@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "tekst": "Dit is een positieve recensie van een product.",
+      "label": "positief"
+    },
+    {
+      "tekst": "Dit product is slecht en ik ben teleurgesteld.",
+      "label": "negatief"
+    },
+    {
+      "tekst": "Geweldige service en snel geleverd!",
+      "label": "positief"
+    },
+    {
+      "tekst": "De kwaliteit is niet zoals verwacht, het is teleurstellend.",
+      "label": "negatief"
+    },
+    {
+      "tekst": "Ik ben helemaal tevreden met dit product.",
+      "label": "positief"
+    },
+    {
+      "tekst": "Dit is het slechtste product dat ik ooit heb gekocht.",
+      "label": "negatief"
+    }
+  ]
+}
