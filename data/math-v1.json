@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "som": "5 + 3",
+      "antwoord": 8
+    },
+    {
+      "som": "10 - 4",
+      "antwoord": 6
+    },
+    {
+      "som": "7 * 6",
+      "antwoord": 42
+    },
+    {
+      "som": "12 / 4",
+      "antwoord": 3
+    },
+    {
+      "som": "25 + 15",
+      "antwoord": 40
+    },
+    {
+      "som": "50 - 30",
+      "antwoord": 20
+    },
+    {
+      "som": "8 * 9",
+      "antwoord": 72
+    },
+    {
+      "som": "36 / 6",
+      "antwoord": 6
+    },
+    {
+      "som": "3 + 7",
+      "antwoord": 10
+    },
+    {
+      "som": "100 - 50",
+      "antwoord": 50
+    },
+    {
+      "som": "9 * 5",
+      "antwoord": 45
+    },
+    {
+      "som": "72 / 8",
+      "antwoord": 9
+    }
+  ]
+}
